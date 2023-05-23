@@ -1,0 +1,28 @@
+{
+    "ad_user": [
+        {
+            "full_name": "Daniel Gluhak",
+            "e-mail": "daniel.gluhak@example.com",
+            "team": "ITOps",
+            "supervisor": "Example Eg"
+        },
+        {
+            "full_name": "John Deere",
+            "e-mail": "john.deere@example.com",
+            "team": "Dev",
+            "supervisor": "Example Eg"
+        },
+        {
+            "full_name": "George Bush",
+            "e-mail": "george.bush@example.com",
+            "team": "Reception",
+            "supervisor": "Example Eg"
+        },
+        {
+            "full_name": "John Doe",
+            "e-mail": "john.doe@example.com",
+            "team": "VRTeam",
+            "supervisor": "Example Eg"
+        }
+    ]
+}
